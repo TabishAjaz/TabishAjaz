@@ -1,10 +1,11 @@
 ### Hi there 👋
-![{7244853A-3522-4FA7-BC45-E8106C06B8CE} png](https://user-images.githubusercontent.com/53833750/93975279-d9d7b100-fd94-11ea-90ca-1533017c7b7c.jpg)
+![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/53833750/94395786-0cf7b700-017e-11eb-8c1d-966b25469613.gif)
+
 
 
 <!--
 **TabishAjaz/TabishAjaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![{19128119-EDEF-44B2-AC15-EC5011EB7A88} png](https://user-images.githubusercontent.com/53833750/93937506-8c802300-fd45-11ea-9c6e-c76b2c3d3d9b.jpg)
+
 
 Here are some ideas to get you started:
 
