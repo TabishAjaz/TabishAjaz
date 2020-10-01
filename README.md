@@ -13,11 +13,13 @@
      
 # Statistics #
 
-![Tabish's github stats](https://github-readme-stats.vercel.app/api?username=TabishAjaz&show_icons=true&theme=tokyonight)
+![Tabish's github stats](https://github-readme-stats.vercel.app/api?username=TabishAjaz&show_icons=true&theme=radial)
 
 
 **- 📫 How to reach me 🌍 : ...**
 ##### 💌Mail me [tabish.ajaz786@gmail.com]()
+
+
 # Social Media #
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/TabishAjaz)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tabish-ajaz-766b12190/)
